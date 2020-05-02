@@ -1,0 +1,87 @@
+{
+"grocery":[
+    {
+        "slno":"1",
+        "name":"rice",
+        "quantity":"5",
+        "unit":"kg",
+        "category":"food items",
+        "remarks":"choose fibre cotting rice"
+    },
+    {
+        "slno":"2",
+        "name":"wheat powder",
+        "quantity":"2",
+        "unit":"kg",
+        "category":"food items",
+        "remarks":"choose the brand ashirvaad"
+    },
+    {
+        "slno":"3",
+        "name":" wash soap",
+        "quantity":"5",
+        "unit":"number",
+        "category":"health products",
+        "remarks":"choose  any mild soaps"
+    },
+    {
+        "slno":"4",
+        "name":"sanitizer",
+        "quantity":"1",
+        "unit":"number",
+        "category":"health products",
+        "remarks":"choose item with less alcohol content"
+    },
+    {
+        "slno":"5",
+        "name":"face mask",
+        "quantity":"5",
+        "unit":"number",
+        "category":"health products",
+        "remarks":"n-95 mask is better"
+    },
+    {
+        "slno":"6",
+        "name":"notebook",
+        "quantity":"2",
+        "unit":"number",
+        "category":"stationary",
+        "remarks":"200 pages note book is enough"
+    },
+    {
+        "slno":"7",
+        "name":"plates",
+        "quantity":"5",
+        "unit":"number",
+        "category":"house hold products",
+        "remarks":"choose fibre plates or glass plates"
+    },
+    {
+        "slno":"8",
+        "name":"corn flour ",
+        "quantity":"1/2",
+        "unit":"kg",
+        "category":"food items",
+        "remarks":"if small packet is available,then choose that"
+    },
+    {
+        "slno":"9",
+        "name":"snack box",
+        "quantity":"3",
+        "unit":"number",
+        "category":"stationary",
+        "remarks":"choose boxes with medium sized"
+    },
+    {
+        "slno":"10",
+        "name":"oil",
+        "quantity":"2",
+        "unit":"kg",
+        "category":"food items",
+        "remarks":"cocunut oil or sun flower oil "
+    }
+
+
+]
+
+}
